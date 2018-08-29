@@ -16,6 +16,9 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
+- Awesoe Tas
+- Getting to know Github
+- smaller class
 - List
 
 1. Numbered
